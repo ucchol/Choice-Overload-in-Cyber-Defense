@@ -37,7 +37,6 @@ You can run the notebook directly in Google Colab without installing anything lo
    ```
 
 ## Citation
-If you use this code or data, please cite:
 > Rahman, A., Natividad, C., Sayed, M.A., Aggarwal, P., & Kiekintveld, C.D. (2025). *Using Choice Overload to Degrade Cyber Attacks*.
 
 ## License
